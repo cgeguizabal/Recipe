@@ -154,7 +154,7 @@ header img {
   display: flex;
   justify-content: center;
   align-items: flex-end;
-  transform: translateY(1rem);
+  transform: translateY(1.1rem);
 }
 
 @media (min-width: 0px) and (max-width: 376px) {
